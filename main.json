@@ -1,0 +1,68 @@
+{
+
+
+  "@id": "c-all-program-code.html"
+},
+"headline": "C++ ALL PROGRAM CODE","description": "1.HELLO WORLD #include \u0026lt;iostream\u0026gt;   using  namespace  std ;   int  main ()  {      cout \u0026lt;\u0026lt; \u0026quot;Hello World\u0026quot;  \u0026lt;\u0026lt; end...","datePublished": "2021-08-26T07:46:00-08:00",
+"dateModified": "2020-12-23T04:19:14-08:00","image": {
+  "@type": "ImageObject","url": "c++.png",
+  "height": 630,
+  "width": 1200},"publisher": {
+  "@type": "Organization",
+  "name": "codewithrr",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://lh3.googleusercontent.com/ULB6iBuCeTVvSjjjU1A-O8e9ZpVba6uvyhtiWRti_rBAs9yMYOFBujxriJRZ-A=h60",
+    "width": 206,
+    "height": 60
+  }
+},"author": {
+  "@type": "Person",
+  "name": "ER.RAMAN TIWARI"
+
+}
+
+{ 
+  
+    "@id": "phythan-all-program-code.html"
+  },
+  "headline": "PHYTHAN ALL PROGRAM CODE","description": "&#160; &#160;","datePublished": "2021-08-26T07:39:00-08:00",
+  "dateModified": "2021-08-27T00:11:52-08:00","image": {
+    "@type": "ImageObject","url": "python.png",
+    "height": 630,
+    "width": 1200},"publisher": {
+    "@type": "Organization",
+    "name": "codewithrr",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://lh3.googleusercontent.com/ULB6iBuCeTVvSjjjU1A-O8e9ZpVba6uvyhtiWRti_rBAs9yMYOFBujxriJRZ-A=h60",
+      "width": 206,
+      "height": 60
+    }
+  },"author": {
+    "@type": "Person",
+    "name": "ER.RAMAN TIWARI"
+}
+
+{
+  
+  
+    "@id": "java-programe-code.html"
+  },
+  "headline": "JAVA  ALL PROGRAM CODE","description": "&#160;","datePublished": "2021-08-26T07:07:00-08:00",
+  "dateModified": "2021-08-27T00:02:09-08:00","image": {
+    "@type": "ImageObject","url": "java.jpg",
+    "height": 630,
+    "width": 1200},"publisher": {
+    "@type": "Organization",
+    "name": "codewithrr",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://lh3.googleusercontent.com/ULB6iBuCeTVvSjjjU1A-O8e9ZpVba6uvyhtiWRti_rBAs9yMYOFBujxriJRZ-A=h60",
+      "width": 206,
+      "height": 60
+    }
+  },"author": {
+    "@type": "Person",
+    "name": "ER.RAMAN TIWARI"
+  }
